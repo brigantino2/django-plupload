@@ -5,7 +5,7 @@ from django.utils.encoding import force_unicode
 from django.utils.safestring import mark_safe
 from django.forms import Form
 from django.forms.fields import FilePathField
-from django.forms.util import flatatt
+from django.forms.utils import flatatt
 from django.forms.widgets import Input
 from django.template.loader import render_to_string
 from django.template.defaultfilters import capfirst
