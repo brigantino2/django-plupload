@@ -20,7 +20,7 @@ setup(
     long_description=README,
     url='https://bitbucket.org/amoretti/django-plupload',
     author='Alessio Moretti',
-    author_email='brigantino2@gmail.com',
+    author_email='',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
